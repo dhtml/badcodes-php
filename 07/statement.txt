@@ -1,0 +1,9 @@
+Common Mistake #7: Assuming $_POST will always contain your POST data
+
+$.ajax({
+    url: 'http://my.site/some/path',
+    method: 'post',
+    data: JSON.stringify({a: 'a', b: 'b'}),
+    contentType: 'application/json'
+});
+

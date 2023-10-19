@@ -1,0 +1,9 @@
+Common Mistake #9: Ignoring coding standards
+
+Although ignoring coding standards doesn’t directly lead to needing to debug PHP code, it is still probably one of the most important things to discuss here.
+
+PSR-0: Autoloading Standard
+PSR-1: Basic Coding Standard
+PSR-2: Coding Style Guide
+PSR-3: Logger Interface
+PSR-4: Autoloader

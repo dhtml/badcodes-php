@@ -1,0 +1,1 @@
+Common Mistake #4: Performing queries in a loop

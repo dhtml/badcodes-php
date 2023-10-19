@@ -1,0 +1,1 @@
+Common Mistake #2: Misunderstanding isset() behavior

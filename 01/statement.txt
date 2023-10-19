@@ -1,0 +1,1 @@
+Common Mistake #1: Leaving dangling array references after foreach loops

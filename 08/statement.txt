@@ -1,0 +1,1 @@
+Common Mistake #8: Thinking that PHP supports a character data type
